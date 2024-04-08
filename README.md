@@ -33,7 +33,7 @@ To use the PostDataToApi component in your React application, follow these steps
 
 ## API Endpoint
 
-Ensure that the API endpoint specified in the component (`https://chimpu.xyz/api/post.php`) is accessible and correctly configured to handle POST requests. Modify the endpoint URL as needed to match your API setup.
+Ensure that the API endpoint specified in the component (`https://abc.xyz/api`) is accessible and correctly configured to handle POST requests. Modify the endpoint URL as needed to match your API setup.
 
 
 Feel free to use, modify, and distribute this component in your projects. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
